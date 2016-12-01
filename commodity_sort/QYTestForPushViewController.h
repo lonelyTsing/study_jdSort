@@ -1,5 +1,5 @@
 //
-//  QYTestViewController.h
+//  QYTestForPushViewController.h
 //  commodity_sort
 //
 //  Created by MAC on 2016/12/1.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface QYTestViewController : UIViewController
+@interface QYTestForPushViewController : UIViewController
 
 @end

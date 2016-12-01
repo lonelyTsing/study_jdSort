@@ -1,18 +1,18 @@
 //
-//  QYTestViewController.m
+//  QYTestForPushViewController.m
 //  commodity_sort
 //
 //  Created by MAC on 2016/12/1.
 //  Copyright © 2016年 LGH. All rights reserved.
 //
 
-#import "QYTestViewController.h"
+#import "QYTestForPushViewController.h"
 
-@interface QYTestViewController ()
+@interface QYTestForPushViewController ()
 
 @end
 
-@implementation QYTestViewController
+@implementation QYTestForPushViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
